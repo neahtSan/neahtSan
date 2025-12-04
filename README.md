@@ -1,12 +1,6 @@
-[![neahtSan's GitHub Stats](https://github-readme-stats.vercel.app/api?
-   username=neahtSan
-   &show_icons=true
-   &theme=blue-green
-   &title_color=2f80ed
-   &text_color=434d58
-   &icon_color=4c71f2
-   &border_color=e4e2e2
-)](https://github.com/neahtSan)
+```
+[![neahtSan's GitHub stats](https://github-readme-stats.vercel.app/api?username=neahtSan&show_icons=true&bg_color=0d1117&title_color=8ab4f8&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&ring_color=58a6ff)](https://github.com/neahtSan)
+```
 
 
 <!--
